@@ -19,7 +19,6 @@
 ## Introduction
 
 We are excited to introduce JT-Math, a powerful, open-source family of 8-billion parameter large language models specifically engineered to advance the state-of-the-art in mathematical reasoning. The JT-Math series is designed to provide strong foundational models and highly capable instruction-tuned models for a wide range of mathematical tasks, from basic problem-solving to complex, multi-step reasoning.
-
 This repository contains the official code, model links, and documentation for the JT-Math series.
 
 
