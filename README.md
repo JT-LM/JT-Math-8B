@@ -189,4 +189,4 @@ If you find our work useful for your research, please consider citing our paper:
 
 ## License
 
-This project is licensed under the [Your License Name, e.g., Apache 2.0 License]. Please see the `LICENSE` file for details.
+This project is licensed under the Apache 2.0 License.
