@@ -1,4 +1,4 @@
-\# JT-Math: A Family of Open-Source Models for Advanced Mathematical Reasoning 
+# JT-Math: A Family of Open-Source Models for Advanced Mathematical Reasoning 
 
 
 <p align="center">
