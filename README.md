@@ -18,18 +18,21 @@
 
 ## Introduction
 
-We are excited to introduce JT-Math, a powerful, open-source family of 8-billion parameter large language models specifically engineered to advance the state-of-the-art in mathematical reasoning. The JT-Math series is designed to provide strong foundational models and highly capable instruction-tuned models for a wide range of mathematical tasks, from basic problem-solving to complex, multi-step reasoning.
-This repository contains the official code, model links, and documentation for the JT-Math series.
+We are excited to  unveil **JT-Math**, a powerful, open-source family of 8-billion parameter large language models specifically engineered to advance the state-of-the-art in mathematical reasoning. The JT-Math series is designed to provide both strong foundational models and highly capable instruction-tuned models for a wide range of mathematical tasks, from basic problem-solving to complex, multi-step reasoning.
+This repository serves as the official hub for the JT-Math series, providing all the necessary code, model links, and comprehensive documentation to get you started.
+
+
 
 
 
 ## Highlights
 
-The JT-Math family includes three distinct models, each optimized for a specific purpose:
 
-- JT-Math-8B-Base: The foundational model of the series. It was developed through a comprehensive three-stage pre-training process on a high-quality, 210 billion token corpus and supports a native context window of 32,768 tokens.
-- JT-Math-8B-Instruct: A versatile instruction-following model. Fine-tuned from the base model with a combination of Supervised Fine-Tuning (SFT) and Reinforcement Learning (RL), it excels at solving mathematical problems presented in a conversational or instructional format within an 8K token window.
-- JT-Math-8B-Thinking:  It features an extended 32,768-token context window and is optimized with an advanced multi-stage curriculum learning RL pipeline, enabling it to tackle difficult mathematical challenges that require deep, multi-step reasoning.
+The JT-Math family boasts three distinct models, each meticulously optimized for a specific purpose:
+
+- 🧮 **JT-Math-8B-Base**: The foundational powerhouse of the series. This model was meticulously developed through a comprehensive three-stage pre-training process on a high-quality, 210 billion token corpus. It supports an impressive native context window of **32,768 tokens**, making it ideal for deep dives into mathematical concepts.
+- 🗣️ **JT-Math-8B-Instruct**: Your go-to model for versatile instruction-following. Fine-tuned from the base model using a synergistic combination of Supervised Fine-Tuning (SFT) and Reinforcement Learning (RL), it truly excels at solving mathematical problems presented in conversational or instructional formats within an **8K token window**.
+- 🧠 **JT-Math-8B-Thinking**: Our premier model for tackling the most challenging mathematical problems. Featuring an extended **32,768-token context window** and optimized with an advanced multi-stage curriculum learning RL pipeline, JT-Math-8B-Thinking is engineered to enable deep, multi-step reasoning.
 
 
 
