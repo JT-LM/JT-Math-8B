@@ -38,7 +38,7 @@ The JT-Math family boasts three distinct models, each meticulously optimized for
 
 ## Performance
 
-The JT-Math models, particularly `JT-Math-8B-Thinking`, achieve state-of-the-art performance across a range of key mathematical reasoning benchmarks, outperforming other open-source models in the ~8B parameter class.
+The JT-Math models, achieve state-of-the-art performance across a range of key mathematical reasoning benchmarks, outperforming other open-source models in the ~8B parameter class.
 
 Below is a summary of our evaluation results. For more details, please refer to our technical report.
 
