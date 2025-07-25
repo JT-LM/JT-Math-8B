@@ -2,11 +2,11 @@
 
 
 <p align="center">
-    <a href="<PAPER_LINK_PLACEHOLDER>" target="_blank">
+    <a href="<PAPER_LINK_PLACEHOLDER>" target="blank">
         <img src="https://img.shields.io/badge/Paper-ArXiv-red">
-    <a href="https://huggingface.co/JT-LM/JT-Math-8B-Thinking" target="_blank">
+    <a href="https://huggingface.co/JT-LM/JT-Math-8B-Thinking" target="blank">
         <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue">
-    <a href="./LICENSE" target="_blank">
+    <a href="./LICENSE" target="blank">
         <img alt="License" src="https://img.shields.io/badge/License-Apache%202.0-yellow.svg">
 </p>
 
