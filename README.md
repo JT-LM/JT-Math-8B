@@ -97,7 +97,6 @@ print("response:", response)
 
 ### 2. JT-Math-8B-Instruct
 
-This model is fine-tuned to follow instructions and solve problems in a conversational format.
 
 ```python
 from transformers import AutoModelForCausalLM, AutoTokenizer
@@ -141,7 +140,6 @@ print("response:", response)
 
 ### 3. JT-Math-8B-Thinking
 
-This is our most capable model, designed for complex, multi-step problems.
 
 Python
 
