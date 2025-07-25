@@ -1,24 +1,21 @@
 \# JT-Math: A Family of Open-Source Models for Advanced Mathematical Reasoning 
 
-    <a href="#" target="_blank">
 
-        <img src="https://img.shields.io/badge/Paper-ArXiv-red">
-
-  </a>
-
-    <a href="https://huggingface.co/JT-LM/JT-Coder-8B-Instruct" target="_blank">
-
-        <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue">
-
-  </a>
-
-    <a href="./LICENSE" target="_blank">
-
-        <img alt="License" src="https://img.shields.io/badge/License-Apache%202.0-yellow.svg">
-
-  </a>
-
+<p align="center">
+    <a href="<PAPER_LINK_PLACEHOLDER>" target="_blank">
+        <img src="https://img.shields.io/badge/Paper-ArXiv-red">
+    </a>
+    <a href="https://huggingface.co/JT-LM/JT-Math-8B-Thinking" target="_blank">
+        <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue">
+    </a>
+    <a href="./LICENSE" target="_blank">
+        <img alt="License" src="https://img.shields.io/badge/License-Apache%202.0-yellow.svg">
+    </a>
 </p>
+
+
+
+
 
 
 
