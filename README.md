@@ -1,8 +1,26 @@
-# JT-Math: A Family of Open-Source Models for Advanced Mathematical Reasoning 
+\# JT-Math: A Family of Open-Source Models for Advanced Mathematical Reasoning 
+
+    <a href="#" target="_blank">
+
+        <img src="https://img.shields.io/badge/Paper-ArXiv-red">
+
+  </a>
+
+    <a href="https://huggingface.co/JT-LM/JT-Coder-8B-Instruct" target="_blank">
+
+        <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-blue">
+
+  </a>
+
+    <a href="./LICENSE" target="_blank">
+
+        <img alt="License" src="https://img.shields.io/badge/License-Apache%202.0-yellow.svg">
+
+  </a>
+
+</p>
 
 
-
-​          [huggingface]()，            arxiv[网址]()
 
 ## Introduction
 
@@ -36,11 +54,11 @@ Below is a summary of our evaluation results. For more details, please refer to 
 
 We release all three models to the community under an open-source license.
 
-| Model Name            | Context Length | Hugging Face Link                                            | Notes                                                      |
-| --------------------- | -------------- | ------------------------------------------------------------ | ---------------------------------------------------------- |
-| `JT-Math-8B-Base`     | 32K            | [🤗 Link](https://www.google.com/search?q=your-hf-repo/jiutian-math-8b-base) | The foundational base model. Ideal for custom fine-tuning. |
-| `JT-Math-8B-Instruct` | 32K            | [🤗 Link](https://www.google.com/search?q=your-hf-repo/jiutian-math-8b-instruct) | Instruction-tuned for general math problem-solving.        |
-| `JT-Math-8B-Thinking` | 32K            | [🤗 Link](https://www.google.com/search?q=your-hf-repo/jiutian-math-8B-Thinking) | The premier model for complex, long-context reasoning.     |
+| Model Name            | Context Length | Hugging Face Link                                          | Notes                                                      |
+| --------------------- | -------------- | ---------------------------------------------------------- | ---------------------------------------------------------- |
+| `JT-Math-8B-Base`     | 32K            | [🤗 Link](https://huggingface.co/JT-LM/JT-Math-8B-Base)     | The foundational base model. Ideal for custom fine-tuning. |
+| `JT-Math-8B-Instruct` | 32K            | [🤗 Link](https://huggingface.co/JT-LM/JT-Math-8B-Instruct) | Instruction-tuned for general math problem-solving.        |
+| `JT-Math-8B-Thinking` | 32K            | [🤗 Link](https://huggingface.co/JT-LM/JT-Math-8B-Thinking) | The premier model for complex, long-context reasoning.     |
 
 
 
