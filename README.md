@@ -222,7 +222,7 @@ If you find our work useful for your research, please consider citing our paper:
 ```latex
 @article{JT-math2025,
   title={JT MATH: A MULTI-STAGE FRAMEWORK FOR ADVANCED MATHEMATICAL REASONING IN LARGE LANGUAGE MODELS},
-  author={Your Authors},
+  author={Yifan Hao, Fangning Chao, Yaqian Hao, Zhaojun Cui, Huan Bai, Haiyu Zhang, Yankai Liu, Chao Deng, Junlan Feng},
   journal={arXiv:2507.19748},
   year={2025}
 }
