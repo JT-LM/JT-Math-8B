@@ -223,7 +223,7 @@ If you find our work useful for your research, please consider citing our paper:
 @article{JT-math2025,
   title={JT MATH: A MULTI-STAGE FRAMEWORK FOR ADVANCED MATHEMATICAL REASONING IN LARGE LANGUAGE MODELS},
   author={Your Authors},
-  journal={Your Journal/Conference (e.g., arXiv preprint arXiv:xxxx.xxxxx)},
+  journal={arXiv:2507.19748},
   year={2025}
 }
 ```
