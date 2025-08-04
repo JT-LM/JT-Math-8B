@@ -1,7 +1,7 @@
 # JT-Math: A Family of Open-Source Models for Advanced Mathematical Reasoning
 
 <!-- <p align="center">
-    <a href="<PAPER_LINK_PLACEHOLDER>" target="_blank">
+    <a href="https://www.arxiv.org/abs/2507.19748" target="_blank">
         <img src="https://img.shields.io/badge/Paper-ArXiv-red">
     </a>
     <a href="https://huggingface.co/JT-LM" target="_blank">
